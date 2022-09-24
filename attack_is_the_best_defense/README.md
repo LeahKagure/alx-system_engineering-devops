@@ -1,0 +1,2 @@
+0. **ARP spoofing and sniffing unencrypted traffic** - Execute `user_authenticating_into_server` locally on your machine and, using `tcpdump`, sniff the network to find my password. Paste the password in your answer file.
+1. **Dictinary attack** - Password-based authentication systems can be easily broken by using a dictionary attack. Let's try it on an SSH account. Once you find the password, share it in your answer file.
