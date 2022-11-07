@@ -1,4 +1,5 @@
 # JKUAT School Portal Hack
+![hacked](https://user-images.githubusercontent.com/44066906/200189268-97832044-8c1d-4a9e-95e3-8f1ab800e049.gif)
 
 **Issue Summary**
 From 5:00 a.m to 9:00 a.m EAT, all records of students results in the online learning section were wiped clean. The issue affected 100% of the student population. The students were still able to access other parts of the portal without fail. The root cause of the wipeout was a hack by a student who gained administrative access to the portal.
